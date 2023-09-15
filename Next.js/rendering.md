@@ -4,10 +4,10 @@
 
 ### Next.js에서는 4가지 렌더링방식을 지원한다.
 
-- SSG (Static site generation)
-- ISR (Incremental site regeneration)
-- SSR (Server side rendering)
-- CSR (Client side rendering)
+- SSG (Static Site Generation)
+- ISR (Incremental Static Regeneration)
+- SSR (Server Side Rendering)
+- CSR (Client Side Rendering)
 
 Next.js 13 app router부터는 pages router와는 달리 컴포넌트별로 렌더링방식을 지정할 수 있는데 default는 SSG이다.
 
