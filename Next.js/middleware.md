@@ -68,4 +68,6 @@ export function middleware(request: NextRequest) {
 - 주어진 URL로 rewrite 할 수 있다.
 - API Routes, getServerSideProps 그리고 rewrite를 위해 request headers를 설정할 수 있다.
 - cookies를 설정할 수 있다.
-- headers를 설정할 수 있다. 
+- headers를 설정할 수 있다.
+
+#### Cookies
